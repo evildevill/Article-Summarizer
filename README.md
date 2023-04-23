@@ -1,4 +1,10 @@
 ## Article Summarizer
+
+Simplify your reading with Summize, an open-source article summarizer </br>
+that transforms lengthy articles into clear and concise summaries.😍💖
+
+- [Live Preview](https://article-summarize.netlify.app/)
+
 ## Introduction
 An Article Summarizer Application using OpenAI's GPT model.
  
@@ -13,7 +19,7 @@ Alongside building this application, you'll also learn how to:
 
 ## Development Sever 
 
-`npm i`
+`npm i` </br>
 `npm run dev`
 
 ## Production
