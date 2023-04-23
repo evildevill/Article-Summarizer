@@ -32,4 +32,4 @@ Alongside building this application, you'll also learn how to:
 
 ## Deployment
 
-- You can Deploy it on Netlify
+- You can Deploy it on [Netlify](https://app.netlify.com/)
