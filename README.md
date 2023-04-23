@@ -4,6 +4,10 @@ Simplify your reading with Summize, an open-source article summarizer </br>
 that transforms lengthy articles into clear and concise summaries.😍💖
 
 - [Live Preview](https://article-summarize.netlify.app/)
+- [![Visits Badge](https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi)](https://hackerwasii.com)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/3d574882-af2c-448b-a375-5fe4eddcf5d1/deploy-status)](https://app.netlify.com/sites/article-summarize/deploys)
+
+![Article Summarizer](https://i.ibb.co/3fRgMgg/Screenshot-2023-04-23-121003.png)
 
 ## Introduction
 An Article Summarizer Application using OpenAI's GPT model.
