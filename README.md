@@ -26,6 +26,9 @@ Alongside building this application, you'll also learn how to:
 `npm i` </br>
 `npm run dev`
 
+## RapidAPI
+- [Article Summarizer API](https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
+
 ## Production
 
 `npm run build`
